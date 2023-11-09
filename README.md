@@ -21,7 +21,7 @@ Security Systems: This method could be used in security systems for monitoring a
 Activity Monitoring: It can be applied to monitor activity levels in specific areas captured by video.
 Automated Alerts: It could trigger alerts or notifications when unexpected movements are detected.
 The project provides a foundation for further development, such as integrating it into a more complex system or interface for specific applications related to motion detection and tracking in video streams. 
- #Steps to Run the Code:
+ # Steps to Run the Code:
   Install required libraries
   Save Code: Copy the provided Python code and save it as motion_detection.py.
   Open Terminal: Access the directory containing motion_detection.py.
